@@ -1,10 +1,10 @@
 ---
-title: "王大锤简历"
+title: "杨大曾简历"
 type : list-single
 toc: true
 ---
 
-姓名：王大锤
+姓名：杨大曾
 
 职业：演员
 
