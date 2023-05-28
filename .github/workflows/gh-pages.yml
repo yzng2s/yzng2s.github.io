@@ -2,8 +2,8 @@ name: github pages
 
 on:
   push:
-    branches:["main]
-      #- main  # Set a branch name to trigger deployment
+    branches:
+      - master  # Set a branch name to trigger deployment
 
 jobs:
   deploy:
