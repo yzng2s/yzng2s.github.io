@@ -1,5 +1,5 @@
 ---
-title: "杨曾简历"
+title: "简历"
 type : list-single
 toc: true
 ---
@@ -8,13 +8,11 @@ toc: true
 
 职业：学生
 
-英文名：Yang Zeng
-
 代表作品：《万万没想到》
 
 电话：+86-800-900-1000
 
-个人网站：www.yzng2s.ga
+个人网站：https://yzng2s.ga
 
 生日：2000年0月0日
 
