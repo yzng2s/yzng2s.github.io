@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/images/image.jpg" width="450">}}
+{{<figure src="/media/image.jpg" width="450">}}
 
 I graduated from Sichuan University!
 
