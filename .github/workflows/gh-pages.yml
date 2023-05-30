@@ -29,5 +29,5 @@ jobs:
           github_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-          
+          cname: www.yzng2s.ga
           
