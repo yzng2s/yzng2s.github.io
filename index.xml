@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Zeng Yang | 杨曾</title><link>https://yzng2s.github.io/</link><description>Recent content in Home on Zeng Yang | 杨曾</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 14 Jun 2023 11:05:51 +0800</lastBuildDate><atom:link href="https://yzng2s.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>如何新增一篇博客</title><link>https://yzng2s.github.io/cn/2023/06/14/%E5%A6%82%E4%BD%95%E6%96%B0%E5%A2%9E%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link><pubDate>Wed, 14 Jun 2023 11:05:51 +0800</pubDate><guid>https://yzng2s.github.io/cn/2023/06/14/%E5%A6%82%E4%BD%95%E6%96%B0%E5%A2%9E%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid><description>苹果电脑：
+本网站采用 “Hugo + github” 的方式，在此感谢郝洪涛的博客。https://hongtaoh.com/cn/2021/03/02/personal-website-tutorial/
 1.打开终端，进入你的Hugo文件夹。将&amp;quot;Websites/quickstart&amp;quot;换成你自己的文件夹路径
 cd Websites/quickstart
 2.在终端输入以下命令:
