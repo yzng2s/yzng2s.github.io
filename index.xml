@@ -13,7 +13,7 @@ cn/posts为路径，此处为在中文日志中新建一篇博客。
 (3)git push origin master
 5.5分钟后登录网页即可查看
 6.本网站采用 “Hugo + github” 的方式.
-在此感谢郝洪涛的博客。https://hongtaoh.com/cn/2021/03/02/personal-website-tutorial/</description></item><item><title>儿童节</title><link>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</link><pubDate>Mon, 29 May 2023 23:16:27 +0800</pubDate><guid>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</guid><description>儿童节</description></item><item><title>Markdown Testing</title><link>https://yzng2s.github.io/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://yzng2s.github.io/en/2021/01/07/second-post/</guid><description>See the source code of this page if you are interested.
+在此感谢 郝洪涛的博客。</description></item><item><title>儿童节</title><link>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</link><pubDate>Mon, 29 May 2023 23:16:27 +0800</pubDate><guid>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</guid><description>儿童节</description></item><item><title>Markdown Testing</title><link>https://yzng2s.github.io/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://yzng2s.github.io/en/2021/01/07/second-post/</guid><description>See the source code of this page if you are interested.
 H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2. — Richard Feynman
 Math For example,
 $1 + 1 = 3$
