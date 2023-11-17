@@ -23,7 +23,13 @@ cn/posts为路径，此处为在中文日志中新建一篇博客。
 (3)git push origin master
 5.5分钟后登录网页即可查看
 6.本网站采用 “Hugo + github” 的方式.
-在此感谢 郝洪涛的博客。</description></item><item><title>儿童节</title><link>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</link><pubDate>Mon, 29 May 2023 23:16:27 +0800</pubDate><guid>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</guid><description>儿童节</description></item><item><title>Markdown Testing</title><link>https://yzng2s.github.io/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://yzng2s.github.io/en/2021/01/07/second-post/</guid><description>See the source code of this page if you are interested.
+在此感谢 郝洪涛的博客。
+注意：可能出现以下错误的解决方法 1)git push时出现错误，可能是由于网站的代码库和本地的代码库不一致.
+可以先使用“git pull &amp;ndash;rebase origin master” 再使用“git push origin master”
+2)如果连接远程代码库出现错误的话，可以采取如下操作
+git branch -l 查看本地的branch分支是否为master，如果不是，可以输入“git branch -M master”增加branch的分支为master
+3）如果由于公钥问题不能连接，可以采取如下操作
+ssh -T git@github.com 查询ssh能否连接到github，如果不能，首先输入“ssh-add -l”查询本地的公钥与远程的公钥是否一致，如果不一致可以删除用&amp;quot;ssh-add -D&amp;quot;,如果本地没有公钥，则可以输入“ssh-add ~/.ssh/公钥名称”进行添加公钥到本地，如果本地没有公钥和私钥，则可以输入《“ssh-keygen -t rsa -b 4096 -C &amp;ldquo;$(git config user.email)&amp;rdquo; -f 自定名称 -N &amp;quot;&amp;quot; 》进行创建公钥和私钥。 ”</description></item><item><title>儿童节</title><link>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</link><pubDate>Mon, 29 May 2023 23:16:27 +0800</pubDate><guid>https://yzng2s.github.io/cn/2023/05/29/%E5%84%BF%E7%AB%A5%E8%8A%82/</guid><description>儿童节是全世界的一个节日，在6月1日这一天，世界上所有3岁到12岁小朋友都会放假一天来庆祝，这天他们可以约上3或5个小朋友一起踏青、或去游乐场玩耍、或去好吃街买他们平时没有买到的好吃的。</description></item><item><title>Markdown Testing</title><link>https://yzng2s.github.io/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://yzng2s.github.io/en/2021/01/07/second-post/</guid><description>See the source code of this page if you are interested.
 H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2. — Richard Feynman
 Math For example,
 $1 + 1 = 3$
