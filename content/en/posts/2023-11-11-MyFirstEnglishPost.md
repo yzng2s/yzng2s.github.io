@@ -7,10 +7,8 @@ draft: false
 toc: false
 ---
 
-# This is My first post
 
-DNA-modified nanoparticles enable DNA sensing and therapeutics in nanomedicine and are also crucial for nanoparticle self-assembly with DNA-based materials. 
-
+DNA-modified nanoparticles enable DNA sensing and therapeutics in nanomedicine and are also crucial for nanoparticle self-assembly with DNA-based materials. <br>
 However, methods to conjugate DNA to nanoparticle surfaces are limited, inefficient, and lack control.
 
 Inspired by DNA tile nanotechnology, we demonstrate a new approach to nanoparticl modification based on electrostatic attraction between negatively charged DNA tiles and positively charged nonoparticles. 
