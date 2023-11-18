@@ -12,3 +12,5 @@ DNA-modified nanoparticles enable DNA sensing and therapeutics in nanomedicine a
 However, methods to conjugate DNA to nanoparticle surfaces are limited, inefficient, and lack control.
 
 Inspired by DNA tile nanotechnology, we demonstrate a new approach to nanoparticl modification based on electrostatic attraction between negatively charged DNA tiles and positively charged nonoparticles. 
+
+$\ce{H+ + OH- = H2O}$
